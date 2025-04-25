@@ -8,7 +8,7 @@ export default function IronKeyWebsite() {
     <div className="min-h-screen bg-black text-white px-4 sm:px-6 py-6 space-y-12">
       <header className="flex flex-col items-center animate-slide-down">
         <img
-          src="/Ir nKey.png"
+          src="/IronKeyPartners.png"
           alt="IronKey Partners Logo"
           className="w-48 sm:w-64 h-auto mb-4"
         />
